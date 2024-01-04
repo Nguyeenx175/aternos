@@ -1,0 +1,46 @@
+{
+  "bot-account": {
+    "username": "TGNTL",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Lmaodarkbruh.aternos.me",
+    "port": 43244,
+    "version": "1.15.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+
+      "messages": [
+        "TGNTL - Dumamay"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
